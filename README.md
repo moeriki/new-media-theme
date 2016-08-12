@@ -1,8 +1,10 @@
 # new-media-theme
 
+A collection of color themes for the New Media team at [Medialaan](http://medialaan.be/).
+
 ## Atom
 
-An [Atom](https://atom.io/) syntax theme for the New Media team at [Medialaan](http://medialaan.be/).
+An [Atom](https://atom.io/) syntax theme.
 
 ![JS](https://github.com/Moeriki/new-media-syntax/raw/master/atom-syntax-theme/screenshots/js.png)
 
@@ -12,4 +14,6 @@ An [Atom](https://atom.io/) syntax theme for the New Media team at [Medialaan](h
 
 ## iTerm  
 
-![new-media](https://github.com/Moeriki/new-media-syntax/raw/master/iTerm/iTerm.png)
+An [iTerm](https://www.iterm2.com/) color scheme.
+
+![new-media](https://github.com/Moeriki/new-media-syntax/raw/master/iTerm3/iTerm.png)
