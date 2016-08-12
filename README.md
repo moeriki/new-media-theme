@@ -1,5 +1,9 @@
 # new-media-syntax theme
 
-A short description of your theme.
+An [Atom](https://atom.io/) syntax theme for the New Media Services team at [Medialaan](https://medialaan.be/).
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![JS](https://github.com/Moeriki/new-media-syntax/raw/master/screenshots/js.png)
+
+![HTML](https://github.com/Moeriki/new-media-syntax/raw/master/screenshots/html.png)
+
+![CSS](https://github.com/Moeriki/new-media-syntax/raw/master/screenshots/css.png)
