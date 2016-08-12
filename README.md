@@ -1,6 +1,6 @@
 # new-media-syntax theme
 
-An [Atom](https://atom.io/) syntax theme for the New Media team at [Medialaan](https://medialaan.be/).
+An [Atom](https://atom.io/) syntax theme for the New Media team at [Medialaan](http://medialaan.be/).
 
 ![JS](https://github.com/Moeriki/new-media-syntax/raw/master/screenshots/js.png)
 
