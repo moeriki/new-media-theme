@@ -2,15 +2,25 @@
 
 A collection of color themes for the New Media team at [Medialaan](http://medialaan.be/).
 
+**Colors**
+
+![Colors](https://github.com/Moeriki/new-media-theme/raw/master/medialaan-colors.png)
+
 ## Atom
 
 An [Atom](https://atom.io/) syntax theme.
 
-![JS](https://github.com/Moeriki/new-media-syntax/raw/master/atom-syntax-theme/screenshots/js.png)
+**JavaScript**
 
-![HTML](https://github.com/Moeriki/new-media-syntax/raw/master/atom-syntax-theme/screenshots/html.png)
+![JS](https://github.com/Moeriki/new-media-theme/raw/master/atom-syntax-theme/screenshots/js.png)
 
-![CSS](https://github.com/Moeriki/new-media-syntax/raw/master/atom-syntax-theme/screenshots/css.png)
+**HTML**
+
+![HTML](https://github.com/Moeriki/new-media-theme/raw/master/atom-syntax-theme/screenshots/html.png)
+
+**CSS**
+
+![CSS](https://github.com/Moeriki/new-media-theme/raw/master/atom-syntax-theme/screenshots/css.png)
 
 ## iTerm  
 
